@@ -6,3 +6,6 @@ link :- https://www.linkedin.com/in/jay-patel-84401a210?utm_source=share&utm_cam
 
 Module - Softskills - Projects
 link :- https://youtu.be/8vvYTJltmtQ?feature=shared
+
+Module - Hr Questions
+link :- https://youtu.be/xBhqz0uEoOQ?feature=shared
